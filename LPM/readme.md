@@ -25,8 +25,6 @@ This project demonstrates a scalable and modular approach to handling customer r
 
 ## 🏗️ System Architecture
 
-![Architecture](https://raw.githubusercontent.com/github/explore/main/topics/architecture/architecture.png)
-
 **High-level architecture:**
 - Frontend UI (Web / Mobile)
 - Backend API layer
@@ -37,8 +35,6 @@ This project demonstrates a scalable and modular approach to handling customer r
 ---
 
 ## 🔄 Loyalty Points Flow
-
-![Flow](https://raw.githubusercontent.com/github/explore/main/topics/flowchart/flowchart.png)
 
 1. Customer performs a transaction  
 2. Points are calculated using defined rules  
