@@ -68,5 +68,3 @@ Trade Finance enables importers and exporters to conduct international trade by 
 5. Document Verification
 6. Payment Settlement
 7. Trade Closure
-
-![Trade Lifecycle](https://www.investopedia.com/thmb/0zH8)
