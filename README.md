@@ -1,7 +1,5 @@
 # 🔗 Blockchain Related Projects
 
-![Blockchain Banner](https://raw.githubusercontent.com/ashleymavericks/blockchain-images/main/blockchain-banner.png)
-
 ## 📘 Overview
 
 This repository contains a collection of **Blockchain-related projects and Proofs of Concept (PoCs)** that demonstrate practical implementations, experiments, and learning outcomes across different blockchain technologies.
