@@ -10,8 +10,6 @@ The projects focus on **decentralization, security, transparency, and trustless 
 
 ## 🧩 What’s Included
 
-![Blockchain Concepts](https://raw.githubusercontent.com/ashleymavericks/blockchain-images/main/blockchain-concepts.png)
-
 This repository may include (but is not limited to):
 
 - 🔐 Smart Contracts (Solidity)
@@ -27,8 +25,6 @@ This repository may include (but is not limited to):
 ---
 
 ## 🛠️ Technologies & Tools
-
-![Blockchain Tech Stack](https://raw.githubusercontent.com/ashleymavericks/blockchain-images/main/blockchain-tech-stack.png)
 
 Common tools and technologies used across projects:
 
