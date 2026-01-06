@@ -1,7 +1,5 @@
 # 💱 Trade Finance Platform
 
-![Trade Finance Banner](https://raw.githubusercontent.com/ashleymcnamara/gophers/master/LOGO.png)
-
 ## 📌 Overview
 
 **Trade Finance** is a conceptual and technical project that demonstrates the **end-to-end lifecycle of trade finance operations** used in global commerce.  
@@ -27,8 +25,6 @@ Trade Finance enables importers and exporters to conduct international trade by 
 - Invoice Financing
 - Supply Chain Finance
 
-![Trade Finance Flow](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Letter_of_credit_flow_chart.svg/1200px-Letter_of_credit_flow_chart.svg.png)
-
 ---
 
 ## 🎯 Project Objectives
@@ -53,8 +49,6 @@ Trade Finance enables importers and exporters to conduct international trade by 
 ---
 
 ## 🏗️ High-Level Architecture
-
-![Architecture Diagram](https://www.researchgate.net/profile/Abdelkader-Habbal/publication/341867336/figure/fig1/AS:900624538365952@1592246922262/Architecture-of-a-digital-trade-finance-platform.png)
 
 ### Components
 - Client / Trade Initiator
