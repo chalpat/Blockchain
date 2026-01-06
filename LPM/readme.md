@@ -1,4 +1,4 @@
-# 🎁 Loyalty Points Management System
+# 🎁 Loyalty Points Management (LPM) System
 
 ![Loyalty](https://img.shields.io/badge/Loyalty-Points-blueviolet)
 ![Status](https://img.shields.io/badge/Project-Active-success)
