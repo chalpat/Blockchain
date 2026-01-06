@@ -24,8 +24,6 @@ In a **Triparty model**, a neutral third-party agent (e.g., a custodian bank or 
 - Settlement & custody
 - Reporting & reconciliation
 
-![Triparty Model](https://upload.wikimedia.org/wikipedia/commons/3/3b/Triparty_repo_structure.png)
-
 ---
 
 ## 🎯 Key Objectives
@@ -40,8 +38,6 @@ In a **Triparty model**, a neutral third-party agent (e.g., a custodian bank or 
 
 ## 🏗️ System Architecture
 
-![Architecture](https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GOPHER_ARCHITECTURE.png)
-
 ### Components
 
 - **Counterparty A**
@@ -55,8 +51,6 @@ In a **Triparty model**, a neutral third-party agent (e.g., a custodian bank or 
 ---
 
 ## 🔄 Collateral Lifecycle Flow
-
-![Collateral Flow](https://miro.medium.com/v2/resize:fit:1400/1*2XcK8e7ZCzv3FQKpM0xZxQ.png)
 
 1. Trade execution
 2. Margin calculation
